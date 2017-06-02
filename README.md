@@ -7,7 +7,6 @@
 		}
 	}
   
-  
   	dependencies {
 		compile 'com.github.User:Repo:Tag'
 	}
