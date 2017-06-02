@@ -7,6 +7,6 @@
 		}
 	}
   
-  	dependencies {
-		compile 'com.github.User:Repo:Tag'
+  		dependencies {
+		compile 'com.github.zzzengxiaoxian:TestDemo:1.0'
 	}
